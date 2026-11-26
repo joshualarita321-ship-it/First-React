@@ -4,7 +4,7 @@ function Dashboard() {
     
     <div>
       <h1>Student Planner Dashboard</h1>
-      <p>Welcome to your Student Planner!</p>
+      <p>Welcome to our Student Planner!</p>
     </div>
   );
 }
